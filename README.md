@@ -10,4 +10,4 @@ The purpose of this analysis is to provide insightful bacterial information for 
 
 The dynamic dashboard included information such as: **Demographics** and **Type of Bacteria** per volunteer.
 
-To access the dashboard, please click here
+To access the dashboard, please click [here]()
