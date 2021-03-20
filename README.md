@@ -7,3 +7,7 @@ The purpose of this analysis is to provide insightful bacterial information for 
 ## Summary
 
  To facilitate the visualization of the analysis, we created a set of different charts and a dynamic dashboard using a JavaScript code.
+
+The dynamic dashboard included information such as: "Demographics" and "Type of Bacteria" per volunteer.
+
+
